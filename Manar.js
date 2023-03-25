@@ -4,7 +4,7 @@ function setup(){
     video = createCapture(VIDEO);
     video.hide();
     classifier = ml5.imageClassifier("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KtbGg6Fajv6p4ZDPocz_7gl-a98lwUM_IE9VKg2tBk3Af40x68x8KaIqEM2gYRBvt10&usqp=CAU"
-                                     https://tsf7.com/wp-content/uploads/2022/08/%D8%B9%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D9%86-%D9%86%D9%82%D9%84-%D8%A7%D9%84%D9%83%D9%84%D8%A7%D9%85-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D8%B3-6.png، كل عام وانتم بخير );
+                                    "https://tsf7.com/wp-content/uploads/2022/08/%D8%B9%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D9%86-%D9%86%D9%82%D9%84-%D8%A7%D9%84%D9%83%D9%84%D8%A7%D9%85-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D8%B3-6.png"، كل عام وانتم بخير );
 }
 
 function modelLoaded(){
